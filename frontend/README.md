@@ -12,8 +12,8 @@
 
 Оценивать будем качество кода и качество отображения приложения в мобильных браузерах.
 
-FAQ
+
+## FAQ
 1) Можно пользоваться любыми библиотеками
 2) Ограничений по сетке (flex, inline, grid) нет, главное корректное отображение на указанных устройствах
-3) Размеры экранов iPhone (iPhone 6S, 750x1334): https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html
-Samsung Galaxy S8 Plus (2960 x 1440 pixels)
+3) Размеры экранов [iPhone 6S - 750x1334 pixels](..https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html), Samsung Galaxy S8 Plus - 2960x1440 pixels.
